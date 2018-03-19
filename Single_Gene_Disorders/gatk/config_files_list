@@ -1,0 +1,9 @@
+./
+./1000G_phase1.indels.hg19.sites.vcf
+./1000G_phase1.indels.hg19.sites.vcf.idx
+./Mills_and_1000G_gold_standard.indels.hg19.sites.vcf
+./Mills_and_1000G_gold_standard.indels.hg19.sites.vcf.idx
+./S07504514.interval_list
+./dbsnp_138.hg19.vcf
+./dbsnp_138.hg19.vcf.idx
+./T086V4.igt.interval.list
